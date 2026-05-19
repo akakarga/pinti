@@ -1,0 +1,9 @@
+﻿id,orderId,productId,customerId,returnDate,reason,refundAmount,returnShippingCost,restockable,condition,status
+LUNA-RET-001,LUNA-ORD-015,LUNA-PRD-001,LUNA-CUS-002,2026-05-31,ürün açıklaması yetersiz,899.0,61.25,False,damaged_packaging,received
+LUNA-RET-002,LUNA-ORD-013,LUNA-PRD-004,LUNA-CUS-005,2026-05-19,beklentiyi karşılamadı,1104.15,125.43,True,good,received
+LUNA-RET-003,LUNA-ORD-043,LUNA-PRD-002,LUNA-CUS-014,2026-05-28,geç teslimat,466.65,60.28,True,opened,closed
+LUNA-RET-004,LUNA-ORD-016,LUNA-PRD-003,LUNA-CUS-004,2026-05-28,ürün açıklaması yetersiz,355.77,80.95,True,good,received
+LUNA-RET-005,LUNA-ORD-033,LUNA-PRD-001,LUNA-CUS-011,2026-05-31,geç teslimat,764.15,78.58,False,damaged_product,received
+LUNA-RET-006,LUNA-ORD-036,LUNA-PRD-003,LUNA-CUS-015,2026-05-09,yanlış ürün algısı,636.65,83.3,False,damaged_packaging,review
+LUNA-RET-007,LUNA-ORD-047,LUNA-PRD-005,LUNA-CUS-006,2026-05-31,yanlış ürün algısı,359.1,56.74,True,damaged_product,review
+LUNA-RET-008,LUNA-ORD-003,LUNA-PRD-003,LUNA-CUS-015,2026-05-26,hasarlı paket,1423.1,96.1,True,opened,review

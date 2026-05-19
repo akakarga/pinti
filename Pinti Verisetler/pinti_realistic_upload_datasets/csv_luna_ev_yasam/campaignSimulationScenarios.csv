@@ -1,0 +1,6 @@
+﻿id,productId,name,campaignType,discountRate,couponAmount,freeShipping,expectedSalesLift,currentUnitsSold,targetProfit,notes
+LUNA-SCN-001,LUNA-PRD-003,%20 indirim testi,discount,0.2,0,False,0.32,24,5765.7,Demo senaryo; karar desteği için kullanılır.
+LUNA-SCN-002,LUNA-PRD-005,Sepette kupon testi,coupon,0,47.88,False,0.26,30,6810.58,Demo senaryo; karar desteği için kullanılır.
+LUNA-SCN-003,LUNA-PRD-003,Ücretsiz kargo testi,free_shipping,0,0,True,0.23,11,9352.2,Demo senaryo; karar desteği için kullanılır.
+LUNA-SCN-004,LUNA-PRD-003,Bundle paket testi,bundle,0.08,0,False,0.17,25,11533.34,Demo senaryo; karar desteği için kullanılır.
+LUNA-SCN-005,LUNA-PRD-002,Sepet eşiği testi,cart_threshold,0,0,True,0.2,31,7099.89,Demo senaryo; karar desteği için kullanılır.

@@ -1,0 +1,9 @@
+﻿id,orderId,productId,customerId,returnDate,reason,refundAmount,returnShippingCost,restockable,condition,status
+NOVA-RET-001,NOVA-ORD-014,NOVA-PRD-002,NOVA-CUS-005,2026-05-31,ürün açıklaması/reklam beklentisi uyuşmadı,1019.15,88.37,True,good,review
+NOVA-RET-002,NOVA-ORD-044,NOVA-PRD-001,NOVA-CUS-014,2026-05-27,ürün açıklaması/reklam beklentisi uyuşmadı,699.0,43.46,True,good,received
+NOVA-RET-003,NOVA-ORD-031,NOVA-PRD-001,NOVA-CUS-005,2026-05-05,geç teslimat,664.05,47.87,False,good,received
+NOVA-RET-004,NOVA-ORD-045,NOVA-PRD-001,NOVA-CUS-008,2026-05-13,hasarlı paket,664.05,42.84,True,damaged_packaging,review
+NOVA-RET-005,NOVA-ORD-008,NOVA-PRD-003,NOVA-CUS-011,2026-05-26,yanlış ürün algısı,142.03,37.93,True,good,closed
+NOVA-RET-006,NOVA-ORD-050,NOVA-PRD-002,NOVA-CUS-014,2026-05-10,ürün açıklaması yetersiz,1019.15,88.51,True,damaged_packaging,review
+NOVA-RET-007,NOVA-ORD-042,NOVA-PRD-001,NOVA-CUS-008,2026-05-12,geç teslimat,2097.0,46.39,False,damaged_packaging,received
+NOVA-RET-008,NOVA-ORD-022,NOVA-PRD-004,NOVA-CUS-001,2026-05-24,ürün açıklaması yetersiz,808.2,47.27,True,good,closed

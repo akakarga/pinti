@@ -1,0 +1,6 @@
+﻿id,relatedSettlementId,transactionDate,amount,description,status
+NOVA-BANK-001,NOVA-SET-001,2026-05-25,452.54,Hepsiburada hakediş ödemesi NOVA-SET-001,matched
+NOVA-BANK-002,NOVA-SET-002,2026-05-30,276.1,Amazon TR hakediş ödemesi NOVA-SET-002,matched
+NOVA-BANK-003,NOVA-SET-004,2026-05-20,176.35,Hepsiburada hakediş ödemesi NOVA-SET-004,matched
+NOVA-BANK-004,NOVA-SET-006,2026-05-31,1098.3,Trendyol hakediş ödemesi NOVA-SET-006,matched
+NOVA-BANK-005,NOVA-SET-007,2026-05-31,31.91,Amazon TR hakediş ödemesi NOVA-SET-007,matched

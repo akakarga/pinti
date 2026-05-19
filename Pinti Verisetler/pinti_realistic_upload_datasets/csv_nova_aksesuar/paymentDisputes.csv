@@ -1,0 +1,5 @@
+﻿id,orderId,customerId,amount,reason,status,createdAt
+NOVA-DSP-001,NOVA-ORD-045,NOVA-CUS-008,465.38,teslimat itirazı,review,2026-05-09
+NOVA-DSP-002,NOVA-ORD-012,NOVA-CUS-004,1009.86,iade onayı bekliyor,closed,2026-05-08
+NOVA-DSP-003,NOVA-ORD-033,NOVA-CUS-011,491.21,ürün açıklaması uyuşmazlığı,open,2026-05-13
+NOVA-DSP-004,NOVA-ORD-022,NOVA-CUS-001,666.42,ödeme doğrulama kontrolü,closed,2026-05-22

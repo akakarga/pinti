@@ -1,0 +1,5 @@
+﻿id,name,productId,platform,startDate,endDate,totalSpend,attributedRevenue,attributedOrders,status
+NOVA-CAM-001,Yeni Kitle Arama,NOVA-PRD-003,Trendyol Reklam,2026-05-09,2026-05-27,2367.07,7106.42,18,paused
+NOVA-CAM-002,Retargeting Sepet,NOVA-PRD-001,Google Ads,2026-05-01,2026-05-23,1444.86,5575.34,27,active
+NOVA-CAM-003,Anneler Günü Kupon,NOVA-PRD-003,Meta Ads,2026-05-08,2026-05-22,738.28,2118.88,35,active
+NOVA-CAM-004,Hafta Sonu Fırsatı,NOVA-PRD-003,Google Ads,2026-05-04,2026-05-25,2444.36,6092.36,35,paused

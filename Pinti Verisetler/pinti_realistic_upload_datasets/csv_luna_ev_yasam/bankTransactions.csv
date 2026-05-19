@@ -1,0 +1,6 @@
+﻿id,relatedSettlementId,transactionDate,amount,description,status
+LUNA-BANK-001,LUNA-SET-001,2026-05-19,200.55,Trendyol hakediş ödemesi LUNA-SET-001,matched
+LUNA-BANK-002,LUNA-SET-002,2026-05-19,1025.33,Hepsiburada hakediş ödemesi LUNA-SET-002,matched
+LUNA-BANK-003,LUNA-SET-003,2026-06-02,262.66,Hepsiburada hakediş ödemesi LUNA-SET-003,matched
+LUNA-BANK-004,LUNA-SET-006,2026-05-20,471.9,N11 hakediş ödemesi LUNA-SET-006,matched
+LUNA-BANK-005,LUNA-SET-007,2026-05-29,388.94,Hepsiburada hakediş ödemesi LUNA-SET-007,matched

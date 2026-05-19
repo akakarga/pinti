@@ -1,0 +1,16 @@
+﻿id,name,city,segment,totalOrders,riskScore
+NOVA-CUS-001,Müşteri 001,İstanbul,repeat,3,82
+NOVA-CUS-002,Müşteri 002,Bursa,new,4,25
+NOVA-CUS-003,Müşteri 003,Antalya,repeat,7,67
+NOVA-CUS-004,Müşteri 004,Konya,high_value,7,49
+NOVA-CUS-005,Müşteri 005,İstanbul,new,4,37
+NOVA-CUS-006,Müşteri 006,Bursa,new,3,40
+NOVA-CUS-007,Müşteri 007,İzmir,new,3,10
+NOVA-CUS-008,Müşteri 008,Antalya,return_risk,8,47
+NOVA-CUS-009,Müşteri 009,İstanbul,repeat,5,46
+NOVA-CUS-010,Müşteri 010,Konya,new,4,43
+NOVA-CUS-011,Müşteri 011,Hatay,return_risk,2,79
+NOVA-CUS-012,Müşteri 012,Hatay,repeat,5,28
+NOVA-CUS-013,Müşteri 013,Ankara,new,3,49
+NOVA-CUS-014,Müşteri 014,Bursa,return_risk,2,69
+NOVA-CUS-015,Müşteri 015,Bursa,return_risk,5,74

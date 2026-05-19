@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Server build artifacts
+server/dist
+server/node_modules
+
+# Local API demo/runtime artifacts
+server/src/data/uploads/*.json
+!server/src/data/uploads/.gitkeep
+server/src/data/analyses/*.json
+!server/src/data/analyses/.gitkeep
+
+# Local browser smoke artifacts
+test-results
+playwright-report
+output
+.playwright-cli
+.tmp
+tmp
+*.tmp
+
+# Design artifacts (dev-only, not needed in final repo)
+pinti-redesign-screens
+
+# Dev planning documents (internal use only)
+PINTI_FRONTEND_REBUILD_BRIEF.md
+PINTI_LANDING_ANTI_SLOP_FINAL.md
+pinti_jury_presentation_strategy.md
+pinti_redesign_direction.md
+veri_merkezi_design_direction.md
+Örnek Frontend Prompts/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

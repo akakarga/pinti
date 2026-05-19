@@ -1,0 +1,6 @@
+﻿id,name,category,salePrice,unitCost,commissionRate,averageShippingCost,stock,targetNetMargin,expectedAdCostPerUnit,expectedReturnCostPerUnit,competitorPriceMin,competitorPriceMax,currentDiscountRate
+LUNA-PRD-001,Luna Akıllı Gece Lambası,Ev & Yaşam,899.0,520.0,0.145,74.0,42,0.18,82.0,36.0,837.11,938.11,0.1
+LUNA-PRD-002,Mira Organizer Set,Ev & Yaşam,549.0,285.0,0.135,68.0,75,0.2,54.0,28.0,493.88,581.68,0
+LUNA-PRD-003,SoftTouch Mutfak Rafı,Mutfak,749.0,410.0,0.14,92.0,28,0.18,61.0,34.0,699.67,872.51,0
+LUNA-PRD-004,Nordic Masa Lambası,Aydınlatma,1299.0,760.0,0.155,118.0,17,0.22,96.0,51.0,1204.48,1356.74,0
+LUNA-PRD-005,Katlanır Saklama Kutusu,Depolama,399.0,210.0,0.125,63.0,96,0.18,38.0,24.0,358.1,443.19,0

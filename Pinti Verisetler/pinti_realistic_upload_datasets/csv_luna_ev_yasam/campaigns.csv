@@ -1,0 +1,5 @@
+﻿id,name,productId,platform,startDate,endDate,totalSpend,attributedRevenue,attributedOrders,status
+LUNA-CAM-001,Yeni Kitle Arama,LUNA-PRD-004,Google Ads,2026-05-06,2026-05-24,678.21,1540.53,25,active
+LUNA-CAM-002,Retargeting Sepet,LUNA-PRD-002,Meta Ads,2026-05-04,2026-05-20,846.91,2146.24,21,active
+LUNA-CAM-003,Anneler Günü Kupon,LUNA-PRD-003,Meta Ads,2026-05-07,2026-05-25,1748.01,4584.3,32,paused
+LUNA-CAM-004,Hafta Sonu Fırsatı,LUNA-PRD-001,Google Ads,2026-05-08,2026-05-19,2470.48,8812.48,19,active

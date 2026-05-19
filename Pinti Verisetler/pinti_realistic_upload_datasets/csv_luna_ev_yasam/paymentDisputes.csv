@@ -1,0 +1,5 @@
+﻿id,orderId,customerId,amount,reason,status,createdAt
+LUNA-DSP-001,LUNA-ORD-033,LUNA-CUS-011,579.28,teslimat itirazı,open,2026-05-15
+LUNA-DSP-002,LUNA-ORD-047,LUNA-CUS-006,385.31,ürün açıklaması uyuşmazlığı,review,2026-05-06
+LUNA-DSP-003,LUNA-ORD-049,LUNA-CUS-012,1154.69,ürün açıklaması uyuşmazlığı,review,2026-05-07
+LUNA-DSP-004,LUNA-ORD-043,LUNA-CUS-014,459.45,iade onayı bekliyor,closed,2026-05-10

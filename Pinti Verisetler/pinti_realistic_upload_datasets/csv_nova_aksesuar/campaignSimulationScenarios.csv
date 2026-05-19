@@ -1,0 +1,6 @@
+﻿id,productId,name,campaignType,discountRate,couponAmount,freeShipping,expectedSalesLift,currentUnitsSold,targetProfit,notes
+NOVA-SCN-001,NOVA-PRD-005,%20 indirim testi,discount,0.2,0,False,0.15,22,6793.18,Demo senaryo; karar desteği için kullanılır.
+NOVA-SCN-002,NOVA-PRD-001,Sepette kupon testi,coupon,0,83.88,False,0.28,17,3228.94,Demo senaryo; karar desteği için kullanılır.
+NOVA-SCN-003,NOVA-PRD-001,Ücretsiz kargo testi,free_shipping,0,0,True,0.38,24,6152.58,Demo senaryo; karar desteği için kullanılır.
+NOVA-SCN-004,NOVA-PRD-005,Bundle paket testi,bundle,0.08,0,False,0.36,33,9519.75,Demo senaryo; karar desteği için kullanılır.
+NOVA-SCN-005,NOVA-PRD-001,Sepet eşiği testi,cart_threshold,0,0,True,0.31,33,7930.74,Demo senaryo; karar desteği için kullanılır.

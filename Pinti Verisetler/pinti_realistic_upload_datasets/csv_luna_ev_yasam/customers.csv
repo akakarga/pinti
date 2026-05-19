@@ -1,0 +1,16 @@
+﻿id,name,city,segment,totalOrders,riskScore
+LUNA-CUS-001,Müşteri 001,Hatay,return_risk,4,67
+LUNA-CUS-002,Müşteri 002,Bursa,new,3,64
+LUNA-CUS-003,Müşteri 003,Adana,high_value,3,37
+LUNA-CUS-004,Müşteri 004,Adana,new,2,58
+LUNA-CUS-005,Müşteri 005,Ankara,high_value,6,43
+LUNA-CUS-006,Müşteri 006,İstanbul,return_risk,2,58
+LUNA-CUS-007,Müşteri 007,Ankara,high_value,6,83
+LUNA-CUS-008,Müşteri 008,Hatay,new,1,39
+LUNA-CUS-009,Müşteri 009,Bursa,new,4,22
+LUNA-CUS-010,Müşteri 010,Antalya,high_value,8,56
+LUNA-CUS-011,Müşteri 011,İzmir,high_value,6,36
+LUNA-CUS-012,Müşteri 012,Bursa,new,3,78
+LUNA-CUS-013,Müşteri 013,Hatay,repeat,8,58
+LUNA-CUS-014,Müşteri 014,Bursa,repeat,6,17
+LUNA-CUS-015,Müşteri 015,Hatay,new,6,61

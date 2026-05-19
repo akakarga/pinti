@@ -1,0 +1,6 @@
+﻿id,name,category,salePrice,unitCost,commissionRate,averageShippingCost,stock,targetNetMargin,expectedAdCostPerUnit,expectedReturnCostPerUnit,competitorPriceMin,competitorPriceMax,currentDiscountRate
+NOVA-PRD-001,Nova Minimal Çanta,Aksesuar,699.0,310.0,0.16,52.0,38,0.22,105.0,24.0,650.79,800.63,0
+NOVA-PRD-002,Pera Bebek Bakım Çantası,Anne & Bebek,1199.0,690.0,0.17,98.0,22,0.24,146.0,44.0,1138.83,1343.32,0.15
+NOVA-PRD-003,Urban Telefon Askısı,Aksesuar,299.0,115.0,0.15,39.0,120,0.2,63.0,18.0,274.57,325.22,0
+NOVA-PRD-004,Liva Cüzdan Seti,Aksesuar,449.0,190.0,0.155,44.0,64,0.21,82.0,21.0,404.19,521.13,0
+NOVA-PRD-005,Mia Saç Aksesuar Paketi,Kişisel Bakım,249.0,92.0,0.14,34.0,150,0.18,54.0,17.0,235.5,272.93,0
